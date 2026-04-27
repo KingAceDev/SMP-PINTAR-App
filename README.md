@@ -30,7 +30,7 @@ Aplikasi menyimpan data dalam format Daftar untuk efisiensi:
 - **Nilai:** `[nomor_telepon, password]`
 
 ## Cara Instalasi
-1. Unduh file `.apk` dari folder `bin/` (jika tersedia).
+1. Unduh file `.apk`
 
 2. Izinkan instalasi dari sumber yang tidak dikenal di perangkat Android Anda.
 
